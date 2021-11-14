@@ -5,7 +5,7 @@ const cors = require('cors');
 const mongoose = require('mongoose');
 require('dotenv').config();
 
-// import routes
+// import routes 
 // const postRoutes = require('./routes/post');
 
 // App
